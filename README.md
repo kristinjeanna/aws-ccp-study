@@ -14,3 +14,4 @@ A collection of study resources and notes used to prepare for the [AWS CLF-C01](
 - [AWS Cloud Quest: Cloud Practitioner](https://explore.skillbuilder.aws/learn/course/11458/play/43047/system-requirements)
 - [AWS Cloud Practitioner Essentials course](https://aws.amazon.com/training/digital/aws-cloud-practitioner-essentials/)
 - [Tutorials Dojo practice exams](https://portal.tutorialsdojo.com/courses/aws-certified-cloud-practitioner-practice-exams/)
+- [Freecodecamp.org course on YouTube](https://youtu.be/SOTamWNgDKc0)
